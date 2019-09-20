@@ -1,0 +1,12 @@
+4 de octubre parcial
+
+25 el tp
+--------------------
+lenguaje de programacion
+elementos fundamentales de los sistemas operativos
+distribuciones y licencias de software
+virtualizacion
+estructura de subdirectorios de linux
+repositorios y paquetes
+
+parte practica: todos los comando
